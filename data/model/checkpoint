@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tan-doan/Thesis/11_mel/data/model/best_model"
+all_model_checkpoint_paths: "/home/tan-doan/Thesis/11_mel/data/model/best_model"
